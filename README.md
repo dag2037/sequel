@@ -1,1 +1,1 @@
-Add https://youtu.be/q7LwPoM7tSQ to guides/yolo-performance-metrics.md (#8114)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
